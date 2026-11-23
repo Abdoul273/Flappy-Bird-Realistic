@@ -1,0 +1,6 @@
+{
+  "name": "Flappy 3D — Vol Réaliste",
+  "description": "Un jeu Flappy Bird 3D ultra-réaliste pour PC avec rendu PBR, éclairage atmosphérique dynamique, oiseau articulé et environnement naturel immersif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
